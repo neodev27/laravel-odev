@@ -1,1 +1,2 @@
-"# laravel-odev" 
+laravel odev
+Ürün CRUD uygulaması
